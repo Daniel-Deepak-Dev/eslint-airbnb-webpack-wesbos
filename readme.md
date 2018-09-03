@@ -46,3 +46,14 @@
 
 ## babel:
     npm install babel-loader babel-core babel-present-es2015-native-modules --save-dev
+
+## readme.md
+    
+    ###for headings
+    *for italics*
+    **for bolding**
+    [links](https://google.com)
+    * doted lists
+    ```
+    codes
+    ```
