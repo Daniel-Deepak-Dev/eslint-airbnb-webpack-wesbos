@@ -1,9 +1,4 @@
-let x = 'something';
-const y = 'sdfjsdl';
-console.log(x);
-
-x += 1;
-
-
-const z = () => x;
-document.write(z());
+/* eslint-disable no-multiple-empty-lines */
+const ages = [1,1,233,12];
+ 
+console.log(uniq(ages));
