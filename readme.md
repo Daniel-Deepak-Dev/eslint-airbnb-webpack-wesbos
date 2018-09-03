@@ -49,11 +49,12 @@
 
 ## readme.md
     
-    ###for headings
-    *for italics*
-    **for bolding**
-    [links](https://google.com)
-    * doted lists
-    ```
-    codes
-    ```
+### for headings
+*for italics*
+**for bolding**
+[links](https://google.com)
+* doted lists
+
+```
+codes
+```
