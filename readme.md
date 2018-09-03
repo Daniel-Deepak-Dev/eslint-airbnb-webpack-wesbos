@@ -19,7 +19,11 @@
 
         "extends": "eslint:recommended"
         "extends": "airbnb"                 //popular eslintrc files
-            //  command to install airbnb: npx install-peerdeps --dev eslint-config-airbnb
+            
+            command to install airbnb: 
+```
+npx install-peerdeps --dev eslint-config-airbnb
+```
             //  npx eslint bad-code.js
             //  to install airbnb globally:npm i eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react -g
 
@@ -50,11 +54,15 @@
 ## readme.md
     
 ### for headings
+
 *for italics*
+
 **for bolding**
-[links](https://google.com)
-* doted lists
+
+[for links](https://google.com)
+
+* for doted lists
 
 ```
-codes
+for codes
 ```
