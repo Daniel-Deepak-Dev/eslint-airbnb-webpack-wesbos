@@ -1,5 +1,9 @@
 1.eslint:
 
+    commands:
+        npx eslint bad-code.js
+        npx eslint bad-code.js --fix
+
     .eslintrc:
         "rules":{
             no-console: 0
