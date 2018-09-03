@@ -1,4 +1,4 @@
-#eslint:
+# eslint:
 
     commands:
         npx eslint bad-code.js
