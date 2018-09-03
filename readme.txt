@@ -1,6 +1,6 @@
 1.eslint:
 
-    file: .eslintrc
+    .eslintrc:
         "rules":{
             no-console: 0
         }
