@@ -3,6 +3,7 @@
 ## eslint:
 
 ### commands:
+
 ```
     npx eslint bad-code.js
     npx eslint bad-code.js --fix
@@ -38,10 +39,10 @@
         video*
         #comment
     
-   can tell git to commit only if code passes all eslint errors by wes bos git commit-msg file in
-   - .git/hooks/commit-msg-sample rename it to commit-msg
-   - then add/replace the lines from git commit-msg file.txt in this repo
-   - now every branch-user who want to commit must follow the eslintrc rules 
+    can tell git to commit only if code passes all eslint errors by wes bos git commit-msg file in
+    * .git/hooks/commit-msg-sample rename it to commit-msg
+    * then add/replace the lines from git commit-msg file.txt in this repo
+    * now every branch-user who want to commit must follow the eslintrc rules 
 
 ## babel:
     npm install babel-loader babel-core babel-present-es2015-native-modules --save-dev
