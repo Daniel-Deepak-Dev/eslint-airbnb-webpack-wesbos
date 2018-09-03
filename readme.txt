@@ -1,4 +1,4 @@
-1.eslint:
+#eslint:
 
     commands:
         npx eslint bad-code.js
@@ -25,7 +25,7 @@
         /* eslint-disable any-error-or-warning*/ to disable errors below this comment use enable keyword to enable it
         /* eslint-disable*/ will disable entire eslint package for the codes below it
 
-2.git:
+#git:
     .gitignore:
         node_modules/*
         file.txt
@@ -37,3 +37,6 @@
     - .git/hooks/commit-msg-sample rename it to commit-msg
     - then add/replace the lines from git commit-msg file.txt in this repo
     - now every branch-user who want to commit must follow the eslintrc rules 
+
+#babel:
+    npm install babel-loader babel-core babel-present-es2015-native-modules --save-dev
