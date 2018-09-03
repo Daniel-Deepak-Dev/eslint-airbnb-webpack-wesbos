@@ -8,11 +8,23 @@
   },
   "author": "deepak",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielnewbie/eslint-airbnb-webpack-wesbos.git"
+  },
   "devDependencies": {
     "eslint": "^5.5.0",
     "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-html": "^4.0.5",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.1"
+  },
+  "dependencies": {
+    "flickity": "^2.1.2",
+    "jquery": "^3.3.1",
+    "jsonp": "^0.2.1",
+    "lodash": "^4.17.10",
+    "slug": "^0.9.1"
   }
 }
