@@ -10,3 +10,11 @@
         "extends": "airbnb"                 //popular eslintrc files
         //  npm command to install airbnb: npx install-peerdeps --dev eslint-config-airbnb
         //  npx eslint bad-code.js
+
+2.git
+    .gitignore:
+        node_modules/*
+        file.txt
+        *.txt
+        video*
+        #comment
